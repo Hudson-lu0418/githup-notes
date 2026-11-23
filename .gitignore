@@ -1,0 +1,4 @@
+.keys/
+.pylib/
+.tmp/
+*.log
