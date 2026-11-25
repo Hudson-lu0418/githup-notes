@@ -2,4 +2,5 @@
 .pylib/
 .tmp/
 *.log
-学习如何用git 
+notes.txt
+.DS_Store
